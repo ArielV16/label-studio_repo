@@ -14,13 +14,13 @@
   
 5. para iniciar deberán indicar su nombre
 
-```
-git config --global user.name "Juanito Perez"
-```
+   ```
+   git config --global user.name "Juanito Perez"
+   ```
 Luego indicar su correo que usan en GutHub
-```
-git config --global user.email juanito.perez@gmail.com
-```
+   ```
+   git config --global user.email juanito.perez@gmail.com
+   ```
 y estaria listo para comenzar a subir carpetas a los repositorios
 
 
