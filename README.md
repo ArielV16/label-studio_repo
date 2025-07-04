@@ -1,4 +1,27 @@
 "# label-studio_repo" 
+## instalacion de git
+1. ingresar a la paguina de git
+
+   ```
+   https://git-scm.com/downloads/win
+   ```
+2. una vez descargado debe ejecutarlo dando a todo siguiente (o next)
+3. Puede ver la version con el siguiente codigo para verificar la instalacion
+   
+   ```
+   git --version
+   ```
+  
+5. para iniciar deberán indicar su nombre
+
+```
+git config --global user.name "Juanito Perez"
+```
+Luego indicar su correo que usan en GutHub
+```
+git config --global user.email juanito.perez@gmail.com
+```
+y estaria listo para comenzar a subir carpetas a los repositorios
 
 
 ## Instalación
