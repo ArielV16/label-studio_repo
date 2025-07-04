@@ -17,14 +17,16 @@
    ```
    git config --global user.name "Juanito Perez"
    ```
-Luego indicar su correo que usan en GutHub
+6. Luego indicar su correo que usan en GitHub
+
    ```
    git config --global user.email juanito.perez@gmail.com
    ```
+   
 y estaria listo para comenzar a subir carpetas a los repositorios
 
 
-## Instalación
+## Instalación de label-studio
 
 1. dirigirse a Anaconda Prompt
 2. crear una carpeta en el escritorio (O en algun otro lado) con el nombre "label-studio_repo"
