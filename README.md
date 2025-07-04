@@ -34,17 +34,28 @@ y estaria listo para comenzar a subir carpetas a los repositorios
    ```
    cd C:\Users\AVILLALOBOS\Desktop\label-studio_repo 
    ```
-4. instalar label-studio con el siguiente codigo en la terminal
-   
-   ```
-   pip install label-studio
-   ```
+
+4. instalar label-studio
+   4a. antes de instalar debe crear un nuevo entorno con
+         
+      ```
+      conda create -n labelstudio
+      ```
+4b. Luego debe activar el entorno (debe activarlo siempre que quiera usarlo)
+         
+      ```
+      conda activate labelstudio
+      ```
+4c. ahora proceda a instalar con el siguiente codigo
+      ```
+      pip install label-studio
+      ```
 
 5. una vez instalado iniciar en el entorno virtual
 
-```
-    label-studio start
-```
+   ```
+       label-studio start
+   ```
 6. una vez iniciado le pedira iniciar sesion (tendra que crear una cuenta)
 
 
