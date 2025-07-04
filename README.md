@@ -39,16 +39,17 @@ y estaria listo para comenzar a subir carpetas a los repositorios
    4a. antes de instalar debe crear un nuevo entorno con
          
       ```
-      conda create -n labelstudio
+         conda create -n labelstudio
       ```
 4b. Luego debe activar el entorno (debe activarlo siempre que quiera usarlo)
          
+      ```   
+          conda activate labelstudio
       ```
-      conda activate labelstudio
-      ```
+      
 4c. ahora proceda a instalar con el siguiente codigo
       ```
-      pip install label-studio
+         pip install label-studio
       ```
 
 5. una vez instalado iniciar en el entorno virtual
