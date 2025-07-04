@@ -41,13 +41,13 @@ y estaria listo para comenzar a subir carpetas a los repositorios
       ```
          conda create -n labelstudio
       ```
-4b. Luego debe activar el entorno (debe activarlo siempre que quiera usarlo)
+   4b. Luego debe activar el entorno (debe activarlo siempre que quiera usarlo)
          
       ```   
           conda activate labelstudio
       ```
+   4c. ahora proceda a instalar con el siguiente codigo
       
-4c. ahora proceda a instalar con el siguiente codigo
       ```
          pip install label-studio
       ```
